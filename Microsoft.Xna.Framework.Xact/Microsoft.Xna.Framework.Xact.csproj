@@ -5,12 +5,10 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.0</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C013ACC7-DCC8-4ED6-BE37-9AB5C4E7F19B}</ProjectGuid>
+    <ProjectGuid>{C3FA4E79-F6E6-4D0C-86C2-B10A7AC63116}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Microsoft.Xna.Framework</RootNamespace>
-    <AssemblyName>Microsoft.Xna.Framework</AssemblyName>
-    <SignAssembly>false</SignAssembly>
-    <AssemblyOriginatorKeyFile>..\xna4.pub</AssemblyOriginatorKeyFile>
+    <RootNamespace>Microsoft.Xna.Framework.Xact</RootNamespace>
+    <AssemblyName>Microsoft.Xna.Framework.Xact</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

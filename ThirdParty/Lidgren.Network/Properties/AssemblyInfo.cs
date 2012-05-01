@@ -35,3 +35,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("2011.3.12.0")]
 [assembly: AssemblyFileVersion("2011.3.12.0")]
 [assembly: System.CLSCompliant(true)]
+
+[assembly: AssemblyKeyFile("../../mono.snk")]

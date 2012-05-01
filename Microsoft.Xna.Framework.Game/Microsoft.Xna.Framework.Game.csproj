@@ -5,12 +5,10 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.0</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C013ACC7-DCC8-4ED6-BE37-9AB5C4E7F19B}</ProjectGuid>
+    <ProjectGuid>{CD031A3A-45B7-4414-97F0-4D529E71A616}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Microsoft.Xna.Framework</RootNamespace>
-    <AssemblyName>Microsoft.Xna.Framework</AssemblyName>
-    <SignAssembly>false</SignAssembly>
-    <AssemblyOriginatorKeyFile>..\xna4.pub</AssemblyOriginatorKeyFile>
+    <RootNamespace>Microsoft.Xna.Framework.Game</RootNamespace>
+    <AssemblyName>Microsoft.Xna.Framework.Game</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
